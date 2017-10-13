@@ -1,0 +1,28 @@
+body {
+margin: 150px;
+background-color : blue;
+padding: 50px;
+}
+div { 
+background-color : white;
+margin: 0px;
+color: red;
+}
+ul {
+list-style-type: none;
+margin: 0
+padding: 0;
+}
+li a {
+text-decoration: none;
+text-transform: uppercase;
+color: black;
+display: block;
+width: 200px;
+height: 30px;
+background-color: #dddddd;
+}
+
+li a:hover {
+background-color: pink;
+}
